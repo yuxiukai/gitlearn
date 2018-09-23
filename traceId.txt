@@ -5,5 +5,5 @@
 把本地库和远程库相关联
     远程        远程仓库名  远程仓库地址
 git remote add origin https://github.com/yuxiukai/gitlearn.git
-git push -u origin master (d第一次)
-git push origin master
+git push -u origin master (第一次)
+git push origin master (以后)
